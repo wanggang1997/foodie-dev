@@ -1,0 +1,5 @@
+# Project exclude paths
+/foodie-dev-common/target/
+/foodie-dev-mapper/target/
+/foodie-dev-pojo/target/
+/foodie-dev-service/target/
